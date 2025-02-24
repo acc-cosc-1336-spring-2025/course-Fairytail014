@@ -3,4 +3,4 @@ def get_number(num):
 def multiply_numbers(num1, num2 ):
     result = num1 * num2
 
-    return result
+    return result 
